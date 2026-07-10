@@ -1,19 +1,76 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                     HACKER CAPSULE BANNER                     ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗
+     ║  supriyo.exe · full profile                                        ║
+     ║                                                                    ║
+     ║  required in the root of the supriyo08/supriyo08 repo:             ║
+     ║    README.md · dark_mode.svg                                       ║
+     ║  optional: light_mode.svg · face_ascii.txt · generate_svg.py       ║
+     ║                                                                    ║
+     ║  to update stats (commits / LOC): edit the text in both SVGs,      ║
+     ║  or edit INFO in generate_svg.py and re-run it                     ║
+     ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=220&color=0d1117&fontColor=00ff41&text=%3E_%20supriyo.exe&fontSize=64&fontAlignY=55&fontAlign=30&animation=fadeIn&desc=connection%20established%20·%20access%20granted&descAlignY=78&descAlign=30&descSize=14" />
 
 <div align="center">
 
-<pre style="color:#00ff41">
-███████╗██╗   ██╗██████╗ ██████╗ ██╗██╗   ██╗ ██████╗ 
-██╔════╝██║   ██║██╔══██╗██╔══██╗██║╚██╗ ██╔╝██╔═══██╗
-███████╗██║   ██║██████╔╝██████╔╝██║ ╚████╔╝ ██║   ██║
-╚════██║██║   ██║██╔═══╝ ██╔══██╗██║  ╚██╔╝  ██║   ██║
-███████║╚██████╔╝██║     ██║  ██║██║   ██║   ╚██████╔╝
-╚══════╝ ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝    ╚═════╝ 
-</pre>
+<!-- ── the machine, the human: neofetch self-portrait ─────────────── -->
+
+<img alt="supriyo08 — neofetch-style profile: ASCII self-portrait beside system info (role, languages, contact, GitHub stats)" src="dark_mode.svg" />
+
+<br /><br />
+
+<details>
+<summary><code>$ cat ./face.ascii &nbsp;—&nbsp; view the portrait as plain text</code></summary>
+<br />
+
+```text
+                                  . ......
+                              ..............
+                             ...          .:. .
+                                        ......
+                               .. .  .. .:...
+                                .::..-=+---::......
+                            .::::..:--=+*#+=-:.. ::
+                            ...--:-:--+#%##*++=:
+                           .-:-++*#%%@@@@%@%#*##. .
+                           =+-+***###%@%%#*#@@%*: .
+                          .*+**+=*#++#####*#%@%#=
+                           -+****##+*%%#%%@@@@%%+-==.
+                           .=*#%@%%*#@@%%@@@@@@@#@@@#:---:
+                          =++*#%%%%#*%%#%@@@@@@@#%@@@===--.      .
+                         :%%++#%%%*=:+#=+*#@@@@@*%@@*-----.
+                          *@*=###=-=+#%%%#+#@@@#=##=.----:
+                          :**-=+*=*+*#%%%%%#%**+:     ..
+                           .:.::--=#%#*#@@#+***=.
+                              .....:+%%##=::-+=+.       :  .
+                                ....:----:..:=#%.      -+..:.
+                                -.........:=*@@%:      .-:.
+                                =+-::.::=*%@@@@@-       -:.
+                                -****+*%@@@%@@@@=       ::
+                              . -*#*#%%@@@@%%@%#-.      ::
+                             ..-=*#%%%@@@@@%%%#=::      .:
+                             ..-:--++#@@@@%%%%*:::....  .-
+                           ....:.:...:#@@@%%@#-::..:::::::
+                         .......::::-+-@@@@%#=:-::::::::::::.
+                      ..........:::::::-+++=-::::::::::::::::::..
+                    ...........:.:::::::=++=::::::::::::::::::-:::
+                ..........::.:..:::::::::==-::::::::::::::::::::::
+             .......:....::::::::::::::::--:::::::::::::::::::::::
+          .......::::..:::::::::::::::::-#-:::::-::::::::::::::::-
+         :-:..:..::::.::::::::::::::::::-=-::::-:::::::::::::::-:-
+        :-::.:::::::::::::::::::::::::::---:::::-::-::::::--:::---
+       .-:-::::::-::.:::::::::::::::::::---::::-::--::::----------
+       .:::-:::::::::-:::::::::::::::-::---:::::-:::::::--:----=-=
+       :-:-::::::-::--:::::::::::::::-::-+-:::--::-------------==-
+       ::::::::::-::--:::::::::::::::-::=#=:-:--------=---------=-
+      .-:::::::::-::--:::::::::::::::-::---:-:--=====-==--=------:
+.     :::::::::::::---:-:::--::--::---::----::-=--==--========----
+     .::::::::::::----::--:-------:----:--=-:---====-=--===-===-:-
+```
+
+</details>
+
+<br /><br />
 
 <a href="https://github.com/supriyo08">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=600&color=00FF41&center=true&vCenter=true&width=620&lines=%24+./initialize+supriyo.sh+--mode%3Dproduction;%24+training+neural+nets+%E2%9A%A1+%E2%80%94+ETA+0h00m;%24+terraform+apply+--auto-approve;%24+kubectl+rollout+status+deploy%2Fai;%24+nmap+-sV+--script%3Dvuln+target.local;%24+echo+%22welcome+to+my+server%22" alt="Typing SVG" />
@@ -82,25 +139,21 @@ When everything works, I'm suspicious.
 
 ```bash
 ┌──(supriyo㉿earth)-[~]
-└─$ neofetch
+└─$ git diff HEAD~30 ./life
 ```
 
 ```diff
-@         .--.            user@host
-@        |o_o |           ─────────────
-@        |:_/ |           supriyo@earth
-@       //   \ \          
-+     (|     | )          role : AI Dev
-@    /'\_   _/`\          loc  : India 🇮🇳
-@    \___)=(___/          shell: zsh+tmux
-                          editor: neovim btw
-                          uptime: ☕ × ∞
-
 + shipping  · Language-Connect
 + learning  · RAG · vector DBs · agents
 ! collab on · multilingual + AI
 ? ask me    · MLOps · system design
 @ inbox     · akashmaji200680@gmail.com
+```
+
+```bash
+┌──(supriyo㉿earth)-[~]
+└─$ uptime
+ ∞ up forever,  1 user,  load: ☕ ☕ ☕
 ```
 
 </td>
@@ -336,7 +389,7 @@ $ ls ~/repos/ | head
 
 <br /><br />
 
-<!-- 3D contribution calendar (requires github-profile-3d-contrib action) -->
+<!-- 3D contribution calendar (requires the github-profile-3d-contrib action) -->
 <img src="https://raw.githubusercontent.com/supriyo08/supriyo08/main/profile-3d-contrib/profile-green-animate.svg" alt="3D contributions" />
 
 </div>
@@ -416,7 +469,6 @@ lets you sleep.
 > Connection closed.
 ```
 
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=140&color=0d1117&fontColor=00ff41&text=%3E_%20exit&fontSize=28&fontAlign=70&fontAlignY=58&animation=fadeIn&section=footer" />
 
+</div>
