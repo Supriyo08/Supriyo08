@@ -2,14 +2,14 @@
      ║  supriyo.exe · full profile                                        ║
      ║                                                                    ║
      ║  required in the root of the supriyo08/supriyo08 repo:             ║
-     ║    README.md · dark_mode.svg                                       ║
+     ║    README.md · dark_mode.svg · banner.svg · footer.svg             ║
      ║  optional: light_mode.svg · face_ascii.txt · generate_svg.py       ║
      ║                                                                    ║
      ║  to update stats (commits / LOC): edit the text in both SVGs,      ║
      ║  or edit INFO in generate_svg.py and re-run it                     ║
      ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=220&color=0d1117&fontColor=00ff41&text=%3E_%20supriyo.exe&fontSize=64&fontAlignY=55&fontAlign=30&animation=fadeIn&desc=connection%20established%20·%20access%20granted&descAlignY=78&descAlign=30&descSize=14" />
+<img width="100%" src="banner.svg" alt="supriyo.exe — connection established · access granted" />
 
 <div align="center">
 
@@ -469,6 +469,6 @@ lets you sleep.
 > Connection closed.
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=140&color=0d1117&fontColor=00ff41&text=%3E_%20exit&fontSize=28&fontAlign=70&fontAlignY=58&animation=fadeIn&section=footer" />
+<img width="100%" src="footer.svg" alt="exit — connection closed" />
 
 </div>
